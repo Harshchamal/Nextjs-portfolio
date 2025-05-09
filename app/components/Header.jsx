@@ -15,7 +15,7 @@ const Header = () => {
                 Hi! I'm Chamal Harsha <Image src={assets.hand_icon} alt='' className='w-6' /> </h3>
       
       <h1 className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'>
-        Web Developer based in Sri Lanka</h1>
+        Full Stack Developer </h1>
         <p className='max-w-2xl mx-auto font-Ovo'>
         I am Chamal Harsha, a passionate Software Engineering student at Cardiff Metropolitan University, 
         specializes in scalable web applications and enjoys collaborating with others to shape the future of software engineering and user experiences.  

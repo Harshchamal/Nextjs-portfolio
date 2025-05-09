@@ -108,40 +108,50 @@ export const assets = {
 export const workData = [
     {
         title: 'My Protfolio Website',
-        description: 'Web Design',
+        description: 'This portfolio showcases a collection of responsive web projects developed using technologies such as Next.js, React, Tailwind CSS, JavaScript, HTML, CSS, and Node.js. Each project demonstrates practical solutions with clean UI, modern design, and smooth functionality. The goal behind these builds is to deliver fast-loading, mobile-friendly, and scalable websites. From landing pages to full-stack systems, the portfolio highlights real-world applications that blend front-end design with efficient back-end logic to solve specific user and business needs.',
         bgImage: '/1.jpg',
         link: 'https://github.com/Harshchamal/Nextjs-portfolio',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Event Planing Website',
+        description: 'This full-stack Event Planning Website helps users plan and book events like weddings, parties, and corporate functions. Designed with a modern UI and responsive layout, it features dynamic booking forms, custom event packages, and admin management tools. The backend, powered by PHP and MySQL, handles real-time data updates and secure user interactions. Built as part of my final project, it reflects strong understanding of web development, database integration, and user-centric design principles.',
         bgImage: '/2.jpg',
         link: 'https://github.com/Harshchamal/Event_planing_Website',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Agriculture website',
+        description: 'This project is a dynamic and responsive website designed to support the agricultural community by providing essential resources, updates, and services. Built using HTML, CSS, JavaScript, PHP, and MySQL, the platform includes features such as crop-related information, contact forms, product listings, and an easy-to-navigate interface. The backend enables storing and managing user queries and data efficiently. This project demonstrates my ability to build a full-stack web application with a user-friendly frontend and functional backend integration.',
         bgImage: '/3.jpg',
         link: 'https://github.com/Harshchamal/Agriculture_website',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Online Bus Ticket Reservation system',
+        description: 'The Neelawala Express Online Bus Seat Reservation System is a digital solution for booking long-distance bus tickets. Users can search routes, view schedules, select seats on an interactive layout, enter passenger details, and pay securely via Visa. Built using HTML, CSS, JavaScript, PHP, and MySQL, the system also includes email notifications, user profiles, and cancellation with refund alerts. Admins can manage buses, routes, schedules, passengers, and generate reports. This system replaces manual bookings with a modern, user-friendly platform, improving efficiency, transparency, and convenience for both passengers and administrators.',
         bgImage: '/4.jpg',
         link: 'https://github.com/Harshchamal/Online_Bus_reservation_system',
     },  
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Job Portal Website',
+        description: 'I’m currently working on a full-stack Job Portal application built with React.js, Express.js, Node.js, and MongoDB. To manage authentication securely, using Clerk, and for real-time error tracking and performance monitoring,  integrated Sentry. The platform is designed to help job seekers easily browse and apply for opportunities, while giving recruiters a simple way to post and manage job listings. The app focuses on a clean user experience, responsive design, and modern development best practices.',
         bgImage: '/5.jpg',
-        link: 'https://github.com/Harshchamal/ABC_Restaurant',
+        link: 'https://github.com/Harshchamal/job_portal.git',
     }, 
 
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
+        title: 'Clothing Store Website',
+        description: 'I’m currently working on a modern clothing store website using the MERN stack (MongoDB, Express, React, Node.js) with React and Vite for a fast and modular frontend. The project includes key e-commerce features like product display, cart system, user authentication, and secure Stripe-powered payments. using Tailwind CSS for responsive styling and React Context API for state management. While it is still in development, the goal is to build a fully functional and user-friendly online shopping experience.',
+        bgImage: '/6.jpg',
+        link: 'https://github.com/Harshchamal/E-commerce-Website',
+        
     }, 
+    {
+        title: 'Doctor Appointment',
+        description: 'Edoc is a simple doctor appointment booking system built with PHP, HTML, and CSS. It allows patients to book appointments online, view schedules, and manage their bookings. Doctors can view appointments, manage sessions, and access patient details. Admins can add doctors, manage schedules, and monitor bookings. The system streamlines clinic operations with user roles for admin, doctor, and patient. It is ideal for hospitals or clinics seeking a basic, open-source solution for appointment management using core web development technologies.',
+        bgImage: '/7.jpg',
+        link: 'https://github.com/Harshchamal/Doctor_Appointment.git',
+        
+    }, 
+  
 
     
 ]
@@ -214,12 +224,13 @@ export const infoList = [
   
   Agriculture_website
   ➔ Website designed for promoting agriculture products and services online.
-  
-  ABC_Restaurant
-  ➔ Simple restaurant management system created for ordering and billing tasks.
-  
+
+  Job Portal Website
+  ➔ A platform for job seekers to search and apply for jobs, and for employers to post
+
   Nextjs-portfolio
   ➔ Personal portfolio built with Next.js showcasing projects and skills.`
+
 
 
 
