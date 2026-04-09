@@ -180,11 +180,6 @@ export const infoList = [
   - Git – Version Control System
   - WordPress – Content Management System (CMS)
   
-  Frameworks & Libraries:
-  - React.js
-  - Express.js
-  - Tailwind CSS
-  
   Databases:
   - MySQL
   - MongoDB

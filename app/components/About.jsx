@@ -14,9 +14,8 @@ const About = ({ isDarkMode }) => {
         
         {/* Paragraph */}
         <p className="text-center mb-8 sm:mb-10 max-w-2xl sm:max-w-3xl font-Ovo text-sm sm:text-base leading-relaxed">
-          I am a dedicated Software Engineering student who has recently completed my final year project and am awaiting results.
-          I’m passionate about coding, full-stack development, and problem-solving. I enjoy learning new technologies and applying
-          them to real-world web projects. My goal is to contribute to innovative digital solutions while continuously growing as a developer.
+          I am a UI UX Designer and WordPress Developer passionate about creating user centered digital experiences.
+          I focus on designing clean interfaces, improving usability, and building responsive websites that deliver real value to users and businesses.
         </p>
 
         {/* Wireframe Information Cards */}
