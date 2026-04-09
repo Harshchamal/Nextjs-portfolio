@@ -173,12 +173,16 @@ export const infoList = [
       iconDark: assets.code_icon_dark, 
       title: 'Languages', 
       description: 
-  `HTML, CSS, C++, JavaScript, PHP, Python
+  `HTML, CSS, JavaScript, PHP, 
   
   Tools & Platforms:
   - Visual Studio Code (VS Code)
   - Git – Version Control System
   - WordPress – Content Management System (CMS)
+  
+  Frameworks & Libraries:
+  - React.js
+  - Tailwind CSS
   
   Databases:
   - MySQL
