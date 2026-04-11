@@ -77,6 +77,7 @@ export const assets = {
     mongodb,
     right_arrow_white,
     logo,
+    
     logo_dark,
     mail_icon,
     mail_icon_dark,
@@ -207,27 +208,7 @@ export const infoList = [
   G.C.E. Ordinary Level
   - Sri Chandananda Buddhist College, Kandy (2021)`
     },
-    { 
-      icon: assets.project_icon, 
-      iconDark: assets.project_icon_dark, 
-      title: 'Built more than 5 projects', 
-      description: 
-  `Online_Bus_reservation_system
-  ➔ System for booking bus seats with real-time seat availability.
-  
-  Event_planing_Website
-  ➔ Full-stack platform for planning, booking, and customizing event services.
-  
-  Agriculture_website
-  ➔ Website designed for promoting agriculture products and services online.
-
-  Nextjs-portfolio
-  ➔ Personal portfolio built with Next.js showcasing projects and skills.`
-
-
-
-
-}
+    
 ];
 
 
