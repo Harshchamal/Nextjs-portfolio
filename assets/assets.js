@@ -66,13 +66,10 @@ export const assets = {
     PHP,
     MySQL,
     Python,
-    Express,
     Figma,
     Tailwind,
-    CP,
     gitt,
-
-
+    
     wordpress,
     React,
     photoshop,
@@ -224,9 +221,6 @@ export const infoList = [
   Agriculture_website
   ➔ Website designed for promoting agriculture products and services online.
 
-  Job Portal Website
-  ➔ A platform for job seekers to search and apply for jobs, and for employers to post
-
   Nextjs-portfolio
   ➔ Personal portfolio built with Next.js showcasing projects and skills.`
 
@@ -235,13 +229,6 @@ export const infoList = [
 
 }
 ];
-
-
-
-
-
-
-
 
 
 

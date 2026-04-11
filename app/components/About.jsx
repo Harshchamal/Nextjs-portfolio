@@ -38,7 +38,7 @@ const About = ({ isDarkMode }) => {
 {/* Tools Section */}
 <div className="w-full max-w-5xl mt-12 sm:mt-16">
   <h4 className="my-6 sm:my-8 text-center text-gray-700 font-Ovo text-base sm:text-lg dark:text-white/80">
-    Tools and languages I use
+    My skills 
   </h4>
   <ul className="flex flex-wrap justify-center gap-x-6 gap-y-6">
     {toolsData.map((tool, index) => (
