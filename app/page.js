@@ -15,7 +15,7 @@ export default function Home() {
  const[isDarkMode, setIsDarkMode] = useState (true);
 
  useEffect(()=>{
-  if (localStorage.theme === 'darki' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-schema: dark)').matches)) {
+  if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-schema: dark)').matches)) {
     setIsDarkMode(true)
 
   }else{
