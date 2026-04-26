@@ -12,9 +12,9 @@ const skillsData = [
     { name: 'PHP', level: 65 },
   ]},
   { category: 'Tools', skills: [
-    { name: 'FIGMA', level: 88 },
-    { name: 'WORDPRESS', level: 82 },
-    { name: 'PHOTOSHOP', level: 70 },
+    { name: 'FIGMA', level: 90 },
+    { name: 'WORDPRESS', level: 90 },
+    { name: 'PHOTOSHOP', level: 99 },
   ]},
 ];
 
