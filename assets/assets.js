@@ -103,53 +103,145 @@ export const assets = {
 
 export const workData = [
   {
-    title: 'My Protfolio Website',
+    title: 'AI Image Generator Web App (MERN Stack)',
     category: 'web',
-    bgImage: '/1.jpg',
-    link: 'https://github.com/Harshchamal/Nextjs-portfolio',
+    bgImage: '/1.png',
+    link: 'https://imagify-chali.vercel.app/',
+    description: 'Developed an AI image generator web app using MERN stack with prompt-based image creation, responsive design, modern UI, and seamless user experience across desktop and mobile devices.',
+    tools: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'Tailwind CSS']
   },
-  {
-    title: 'Event Planing Website',
+   {
+    title: 'Real-Time Bus Ticket Booking System',
     category: 'web',
-    bgImage: '/2.jpg',
-    link: 'https://github.com/Harshchamal/Event_planing_Website',
-  },
-  {
-    title: 'Agriculture website',
-    category: 'web',
-    bgImage: '/3.jpg',
-    link: 'https://github.com/Harshchamal/Agriculture_website',
-  },
-  {
-    title: 'Online Bus Ticket Reservation system',
-    category: 'web',
-    bgImage: '/4.jpg',
+    bgImage: '/4.png',
     link: 'https://github.com/Harshchamal/Online_Bus_reservation_system',
+    description: 'Developed a real-time bus booking system with seat selection, live availability, secure payments, and responsive design, ensuring smooth user experience for ticket reservations and management.',
+    tools: ['PHP', 'MySQL', 'Bootstrap' ,'JavaScript']
+  },
+
+  {
+    title: 'Event Planning & Management Website',
+    category: 'web',
+    bgImage: '/2.png',
+    link: 'https://github.com/Harshchamal/Event_planing_Website',
+    description: 'Developed an event planning website with modern UI, responsive design, and dynamic features for managing events, bookings, and schedules, ensuring smooth and user-friendly experience.',
+    tools: ['HTML', 'CSS', 'JavaScript', 'MySQL']
   },
   {
-    title: 'Job Portal Website',
+    title: 'Agriculture Information Website',
     category: 'web',
-    bgImage: '/5.jpg',
-    link: 'https://github.com/Harshchamal/job_portal.git',
+    bgImage: '/3.png',
+    link: 'https://github.com/Harshchamal/Agriculture_website',
+    description: 'Built a responsive agriculture website providing resources, farming information, and user-friendly interface with modern design, ensuring easy access to agricultural knowledge and services for users.',
+    tools: ['PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript' ]
   },
-  {
-    title: 'Clothing Store Website',
-    category: 'web',
-    bgImage: '/6.jpg',
-    link: 'https://github.com/Harshchamal/E-commerce-Website',
+
+
+   {
+    title: 'Power Analytics Dashboard',
+    category: 'uiux',
+    bgImage: '/Entrack.jpg',
+    link: 'https://www.figma.com/proto/oTlrwZHBqK9TbpBI87MC5T/EnTrack?node-id=85-1631&t=d9SvZ2soxnjecXzd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1',
+    description: 'A smart dashboard visualizing real-time electrical data, tracking power consumption, voltage, and costs using interactive charts, helping optimize energy usage and improve system efficiency.',
+    tools: [ 'Figma' ,'Photoshop']
   },
+
   {
-    title: 'Doctor Appointment',
-    category: 'web',
-    bgImage: '/7.jpg',
-    link: 'https://github.com/Harshchamal/Doctor_Appointment.git',
-  }
+    title: 'Modern Learning Management System (LMS) Platform',
+    category: 'uiux',
+    bgImage: '/LMS.jpg',
+    link: 'https://www.behance.net/gallery/248245531/Modern-LMS-Platform-UIUX-Design',
+    description: 'A modern LMS platform delivering online courses, student profiles, feedback, and support features with a responsive interface, enhancing digital learning experiences and seamless course management.',
+    tools: [ 'Figma' ,'Photoshop']
+  },
+
+ 
+
+  {
+    title: 'BurgerShawarma Food Delivery App UI Design',
+    category: 'uiux',
+    bgImage: '/Burger.jpg',
+    link: 'https://www.behance.net/gallery/229976555/BURGERSHAWRMA-Modern-Food-Ordering-App-UI',
+    description: 'A modern food delivery mobile app UI designed in Figma, featuring intuitive navigation, menu browsing, and seamless ordering experience focused on burgers and shawarma.',
+    tools: [ 'Figma' ,'Photoshop']
+  },
+
+   {
+    title: 'Ride Booking Dashboard & Mobile App UI',
+    category: 'uiux',
+    bgImage: '/TaxiUI.jpg',
+    link: 'https://www.behance.net/gallery/248246507/Ride-Booking-Dashboard-Mobile-App-UI',
+    description: 'A modern taxi booking system UI featuring admin dashboards and mobile app screens, enabling seamless ride management, real-time tracking, and efficient user experience across platforms.',
+    tools: [ 'Figma' ,'Photoshop']
+  },
+   
+   {
+    title: 'Market Analysis Mobile App UI Design',
+    category: 'uiux',
+    bgImage: '/Stock.jpg',
+    link: 'https://www.figma.com/proto/iZVmMUkOjHwd26xhnlutUB/Trade-app?node-id=81-1144&t=EQxyV0BPMDStKtwk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1',
+    description: 'A modern trading mobile app UI displaying real-time market data, stock insights, and analytics with intuitive navigation, enabling users to track, analyze, and manage investments efficiently.',
+    tools: [ 'Figma' ]
+  },
+
+   {
+    title: 'Diamond Engineers Coconut Machine E-Commerce Website (WordPress)',
+    category: 'wordpress',
+    bgImage: '/Business.jpg',
+    link: 'https://diamondengineerspvtltd.lk/',
+    description: 'Designed a modern WordPress e-commerce website for Diamond Engineers, showcasing coconut processing machines with product listings, responsive UI, smooth navigation, and user-friendly shopping experience.',
+    tools: ['wordpress', 'Elementor', ]
+  },
+
+    {
+    title: 'Sthuthi Travels Sri Lanka Tour Website (WordPress & SEO)',
+    category: 'wordpress',
+    bgImage: '/Travel website.jpg',
+    link: 'https://sthuthitravelssrilanka.com/',
+    description: 'Developed a WordPress travel website for Sthuthi Travels, featuring Sri Lanka tour packages, SEO optimization, responsive design, booking functionality, and smooth user experience for global travelers.',
+    tools: ['wordpress', 'Elementor', ]
+  },
+
+     {
+    title: 'Modern Business Landing Page Design',
+    category: 'wordpress',
+    bgImage: '/Business-1.jpg',
+    link: 'https://www.behance.net/gallery/230184297/Marketing-Agency-Website',
+    description: 'Created a modern WordPress landing page design with clean UI, bold typography, responsive layout, engaging visuals, and smooth user experience focused on digital marketing services.',
+    tools: ['wordpress', 'Elementor', ]
+  },
+
+       {
+    title: 'Sri Lanka Travel Website Design (WordPress)',
+    category: 'wordpress',
+    bgImage: '/Travel.jpg',
+    link: 'https://www.behance.net/gallery/229867609/Tour-booking-website-%28WordPress%29',
+    description: 'A modern travel website designed using WordPress, showcasing Sri Lanka destinations, tour packages, and engaging visuals to inspire travelers and provide seamless browsing experience.',
+    tools: ['wordpress', 'Elementor',]
+  },
+
+     {
+    title: 'Business Landing Page UI Design',
+    category: 'wordpress',
+    bgImage: '/Agecy.jpg',
+    link: 'https://www.behance.net/gallery/230025865/Business-Landing-Page-%28WordPress%29',
+    description: 'Built a clean business landing page on localhost with modern UI, responsive layout, engaging visuals, structured sections, and smooth user experience for practice and design improvement.',
+    tools: ['wordpress', 'Elementor',]
+  },
+
+
+
+
+
+
+  
+  
 ]
 
 export const serviceData = [
     { icon: assets.web_icon, title: 'Front-End Development ', description: ' Designing and developing user-friendly interfaces using HTML, CSS, SCSS, JavaScript, React,  to create visually appealing and responsive websites.', link: '' },
     { icon: assets.web_icon, title: 'Back-End Development ', description: ' Back-End Development Building robust backend systems using MySQL and SQL Server to handle data management, user authentication, and server-side functionalities.', link: '' },
-    { icon: assets.mobile_icon, title: 'Consulting', description: 'Offering expert insights to address challenges and improve user satisfaction, with strategies tailored to uncover opportunities, streamline processes, and deliver meaningful results.', link: '' },
+    { icon: assets.mobile_icon, title: 'Digital Marketing', description: 'I provide data-driven digital marketing solutions including SEO optimization, social media marketing, and content strategies to increase brand visibility, drive traffic, and generate leads effectively.', link: '' },
     { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
     { icon: assets.gitt, title: 'Version Control', description: 'Implementing version control using Git and GitHub to ensure efficient collaboration, code management, and tracking of project changes.', link: '' },
     { icon: assets.graphics_icon, title: 'Graphics design', description: 'I create visually striking graphics that effectively communicate your message, ensuring that each design resonates with your audience and enhances brand identity.', link: '' },
@@ -189,9 +281,11 @@ export const infoList = [
       title: 'Education', 
       description: 
   `BSc (Hons) Software Engineering
+   Second class Upper Division
   - University of Cardiff Metropolitan (March 2024 - 2025/04/06)
   
   HND in Computing and Software Engineering
+  Merit
   - Cardiff Metropolitan University (May 2022 - January 2024)
   
   Foundation in Software Engineering
@@ -208,6 +302,6 @@ export const infoList = [
 
 
 export const toolsData = [
-    assets.vscode, assets.HTML, assets.CSS, assets.JS, assets.PHP, assets.MySQL, assets.Python,  assets.mongodb, assets.photoshop, assets.git, 
-    assets.wordpress,  assets.React,  assets.Express,  assets.Figma, assets.Tailwind, assets.CP,
+    assets.vscode, assets.HTML, assets.CSS, assets.JS, assets.PHP, assets.MySQL,  assets.mongodb, assets.photoshop, assets.git, 
+    assets.wordpress,  assets.React,  assets.Figma, assets.Tailwind, 
 ];

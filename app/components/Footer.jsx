@@ -13,12 +13,12 @@ const Footer = ({isDarkMode}) => {
             chamalmanicrama12@gmail.com
             </div>
         </div>
-    <div className='text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-12 py-6'>
-        <p> 2025 Chamal Harsha. All rights reserved.</p>
-        <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
+    <div className='text-center sm:flex items-center justify-between border-t border-gray-400 dark:border-gray-600 mx-[10%] mt-12 py-6'>
+        <p className='text-black dark:text-white'> 2026 Chamal Harsha. All rights reserved.</p>
+        <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0 text-black dark:text-white'>
             <li><a target='_blank' href='https://github.com/Harshchamal'>GitHub</a></li>
             <li><a target='_blank' href='https://www.linkedin.com/in/chamalharsha/'>LinkedIn</a></li>
-            <li><a target='_blank' href='https://www.instagram.com/_harsha_jrzz?igsh=MTNoeTM5bjU1NWFhMw%3D%3D&utm_source=qr'>Instagram</a></li>
+            <li><a target='_blank' href='https://www.behance.net/chamalmanicrama'>behance</a></li>
         </ul>
     </div>
     </div>
