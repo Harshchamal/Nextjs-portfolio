@@ -5,15 +5,15 @@ import React from 'react';
 const skillsData = [
   { category: 'Languages', skills: [
     { name: 'HTML', level: 92 },
-    { name: 'CSS', level: 85 },
-    { name: 'JAVASCRIPT', level: 78 },
-    { name: 'TAILWIND CSS', level: 80 },
-    { name: 'REACT', level: 75 },
-    { name: 'PHP', level: 65 },
+    { name: 'CSS', level: 80 },
+    { name: 'JAVASCRIPT', level: 70 },
+    { name: 'TAILWIND CSS', level: 60 },
+    { name: 'REACT', level: 50 },
+    { name: 'PHP', level: 50 },
   ]},
   { category: 'Tools', skills: [
-    { name: 'FIGMA', level: 90 },
-    { name: 'WORDPRESS', level: 90 },
+    { name: 'FIGMA', level: 95 },
+    { name: 'WORDPRESS', level: 95 },
     { name: 'PHOTOSHOP', level: 99 },
   ]},
 ];
