@@ -33,7 +33,7 @@ const educationData = [
   },
   {
     period: '2022 – January 2023',
-    degree: 'ICBT Kandy Campus',
+    degree: 'Foundation in software engineering',
     school: 'ICBT Kandy Campus',
     grade: 'Grade: Distinction',
   },
