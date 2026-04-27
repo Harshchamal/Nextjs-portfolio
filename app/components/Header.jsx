@@ -14,7 +14,7 @@ const Header = () => {
         <h3 className='flex items-end gap-2 text-xl md:text-2xl mb-3 font-ovo'>
                 Hi! I'm Chamal Harsha <Image src={assets.hand_icon} alt='' className='w-6' /> </h3>
       
-      <h1 className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'>UI/UX Designer</h1>
+      <h1 className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'>UI UX Designer | Web Developer</h1>
         <p className='max-w-2xl mx-auto font-Ovo'>
         I design modern user experiences with a strong focus on UI UX principles and develop high performing websites using WordPress. 
         I create intuitive, visually appealing, and user friendly interfaces that enhance usability and deliver meaningful digital solutions to help businesses grow.  
