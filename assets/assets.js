@@ -175,14 +175,7 @@ export const workData = [
     tools: [ 'Figma' ,'Photoshop']
   },
    
-   {
-    title: 'Market Analysis Mobile App UI Design',
-    category: 'uiux',
-    bgImage: '/Stock.jpg',
-    link: 'https://www.figma.com/proto/iZVmMUkOjHwd26xhnlutUB/Trade-app?node-id=81-1144&t=EQxyV0BPMDStKtwk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1',
-    description: 'A modern trading mobile app UI displaying real-time market data, stock insights, and analytics with intuitive navigation, enabling users to track, analyze, and manage investments efficiently.',
-    tools: [ 'Figma' ]
-  },
+ 
 
    {
     title: 'Diamond Engineers Coconut Machine E-Commerce Website (WordPress)',
