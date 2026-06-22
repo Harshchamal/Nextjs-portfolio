@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
-import { workData } from '@/assets/assets';
+import projectsData from '@/data/projects.json';
 import ProjectModal from './ProjectModal';
 
 const Work = ({ isDarkMode }) => {
@@ -10,7 +10,7 @@ const Work = ({ isDarkMode }) => {
   const [activeTab, setActiveTab] = useState('web');
 
   // ✅ Filter projects (NO "all")
-  const filteredProjects = workData.filter(
+  const filteredProjects = projectsData.filter(
     (project) => project.category === activeTab
   );
 
@@ -56,7 +56,7 @@ const Work = ({ isDarkMode }) => {
 
           return (
             <div
-              key={index}
+              key={project.id}
               className={`bg-white dark:bg-[#1a0026] rounded-xl overflow-hidden border-2 border-gray-200 dark:border-gray-600 cursor-pointer transition-transform duration-200 hover:scale-105
               ${isLastOddItem ? 'lg:col-start-2' : ''}`}
               onClick={() => setSelectedProject(project)}

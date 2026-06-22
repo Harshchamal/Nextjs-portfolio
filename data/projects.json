@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ai-image-generator-mern-stack",
+    "title": "AI Image Generator Web App (MERN Stack)",
+    "category": "web",
+    "bgImage": "/1.png",
+    "link": "https://imagify-chali.vercel.app/",
+    "description": "Developed an AI image generator web app using MERN stack with prompt-based image creation, responsive design, modern UI, and seamless user experience across desktop and mobile devices.",
+    "tools": ["MongoDB", "Express.js", "React.js", "Node.js", "Tailwind CSS"]
+  },
+  {
+    "id": "bus-ticket-booking-system",
+    "title": "Real-Time Bus Ticket Booking System",
+    "category": "web",
+    "bgImage": "/4.png",
+    "link": "https://github.com/Harshchamal/Online_Bus_reservation_system",
+    "description": "Developed a real-time bus booking system with seat selection, live availability, secure payments, and responsive design, ensuring smooth user experience for ticket reservations and management.",
+    "tools": ["PHP", "MySQL", "Bootstrap", "JavaScript"]
+  },
+  {
+    "id": "event-planning-management-website",
+    "title": "Event Planning & Management Website",
+    "category": "web",
+    "bgImage": "/2.png",
+    "link": "https://github.com/Harshchamal/Event_planing_Website",
+    "description": "Developed an event planning website with modern UI, responsive design, and dynamic features for managing events, bookings, and schedules, ensuring smooth and user-friendly experience.",
+    "tools": ["HTML", "CSS", "JavaScript", "MySQL"]
+  },
+  {
+    "id": "agriculture-information-website",
+    "title": "Agriculture Information Website",
+    "category": "web",
+    "bgImage": "/3.png",
+    "link": "https://github.com/Harshchamal/Agriculture_website",
+    "description": "Built a responsive agriculture website providing resources, farming information, and user-friendly interface with modern design, ensuring easy access to agricultural knowledge and services for users.",
+    "tools": ["PHP", "MySQL", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": "power-analytics-dashboard",
+    "title": "Power Analytics Dashboard",
+    "category": "uiux",
+    "bgImage": "/Entrack.jpg",
+    "link": "https://www.figma.com/proto/oTlrwZHBqK9TbpBI87MC5T/EnTrack?node-id=85-1631&t=d9SvZ2soxnjecXzd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+    "description": "A smart dashboard visualizing real-time electrical data, tracking power consumption, voltage, and costs using interactive charts, helping optimize energy usage and improve system efficiency.",
+    "tools": ["Figma", "Photoshop"]
+  },
+  {
+    "id": "lms-platform-uiux",
+    "title": "Modern Learning Management System (LMS) Platform",
+    "category": "uiux",
+    "bgImage": "/LMS.jpg",
+    "link": "https://www.behance.net/gallery/248245531/Modern-LMS-Platform-UIUX-Design",
+    "description": "A modern LMS platform delivering online courses, student profiles, feedback, and support features with a responsive interface, enhancing digital learning experiences and seamless course management.",
+    "tools": ["Figma", "Photoshop"]
+  },
+  {
+    "id": "burgershawarma-food-app-ui",
+    "title": "BurgerShawarma Food Delivery App UI Design",
+    "category": "uiux",
+    "bgImage": "/Burger.jpg",
+    "link": "https://www.behance.net/gallery/229976555/BURGERSHAWRMA-Modern-Food-Ordering-App-UI",
+    "description": "A modern food delivery mobile app UI designed in Figma, featuring intuitive navigation, menu browsing, and seamless ordering experience focused on burgers and shawarma.",
+    "tools": ["Figma", "Photoshop"]
+  },
+  {
+    "id": "ride-booking-dashboard-ui",
+    "title": "Ride Booking Dashboard & Mobile App UI",
+    "category": "uiux",
+    "bgImage": "/TaxiUI.jpg",
+    "link": "https://www.behance.net/gallery/248246507/Ride-Booking-Dashboard-Mobile-App-UI",
+    "description": "A modern taxi booking system UI featuring admin dashboards and mobile app screens, enabling seamless ride management, real-time tracking, and efficient user experience across platforms.",
+    "tools": ["Figma", "Photoshop"]
+  },
+  {
+    "id": "diamond-engineers-ecommerce",
+    "title": "Diamond Engineers Coconut Machine E-Commerce Website (WordPress)",
+    "category": "wordpress",
+    "bgImage": "/Business.jpg",
+    "link": "https://diamondengineerspvtltd.lk/",
+    "description": "Designed a modern WordPress e-commerce website for Diamond Engineers, showcasing coconut processing machines with product listings, responsive UI, smooth navigation, and user-friendly shopping experience.",
+    "tools": ["wordpress", "Elementor"]
+  },
+  {
+    "id": "sthuthi-travels-website",
+    "title": "Sthuthi Travels Sri Lanka Tour Website (WordPress & SEO)",
+    "category": "wordpress",
+    "bgImage": "/Travel website.jpg",
+    "link": "https://sthuthitravelssrilanka.com/",
+    "description": "Developed a WordPress travel website for Sthuthi Travels, featuring Sri Lanka tour packages, SEO optimization, responsive design, booking functionality, and smooth user experience for global travelers.",
+    "tools": ["wordpress", "Elementor"]
+  },
+  {
+    "id": "modern-business-landing-page",
+    "title": "Modern Business Landing Page Design",
+    "category": "wordpress",
+    "bgImage": "/Business-1.jpg",
+    "link": "https://www.behance.net/gallery/230184297/Marketing-Agency-Website",
+    "description": "Created a modern WordPress landing page design with clean UI, bold typography, responsive layout, engaging visuals, and smooth user experience focused on digital marketing services.",
+    "tools": ["wordpress", "Elementor"]
+  },
+  {
+    "id": "sri-lanka-travel-website-design",
+    "title": "Sri Lanka Travel Website Design (WordPress)",
+    "category": "wordpress",
+    "bgImage": "/Travel.jpg",
+    "link": "https://www.behance.net/gallery/229867609/Tour-booking-website-%28WordPress%29",
+    "description": "A modern travel website designed using WordPress, showcasing Sri Lanka destinations, tour packages, and engaging visuals to inspire travelers and provide seamless browsing experience.",
+    "tools": ["wordpress", "Elementor"]
+  },
+  {
+    "id": "business-landing-page-ui-design",
+    "title": "Business Landing Page UI Design",
+    "category": "wordpress",
+    "bgImage": "/Agecy.jpg",
+    "link": "https://www.behance.net/gallery/230025865/Business-Landing-Page-%28WordPress%29",
+    "description": "Built a clean business landing page on localhost with modern UI, responsive layout, engaging visuals, structured sections, and smooth user experience for practice and design improvement.",
+    "tools": ["wordpress", "Elementor"]
+  }
+]
