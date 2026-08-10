@@ -43,21 +43,6 @@
     ]
   },
   {
-    "id": "agriculture-information-website",
-    "title": "Agriculture Information Website",
-    "category": "web",
-    "bgImage": "/3.png",
-    "link": "https://github.com/Harshchamal/Agriculture_website",
-    "description": "Built a responsive agriculture website providing resources, farming information, and user-friendly interface with modern design, ensuring easy access to agricultural knowledge and services for users.",
-    "tools": [
-      "PHP",
-      "MySQL",
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
-  },
-  {
     "id": "power-analytics-dashboard",
     "title": "Power Analytics Dashboard",
     "category": "uiux",
