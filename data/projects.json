@@ -152,5 +152,16 @@
       "wordpress",
       "Elementor"
     ]
+  },
+  {
+    "id": "real-timebooking-website",
+    "title": "Real timeBooking website",
+    "category": "web",
+    "bgImage": "/uploads/1786376948020-booking.PNG",
+    "link": "https://neelawalaexpress.free.je/",
+    "description": "Neelawala Express Bus Booking System\nA complete online reservation platform built for NEELAWALA CUSHION HOUSE, a real transport company operating nightly Semi Luxury buses between Kaduruwela and Mathara, Sri Lanka.\n\nThe system lets passengers select travel dates, choose exact seats from a live 57 seat interactive map, verify their phone via OTP, and pay online all in a single-page booking flow. Seats update in real time with temporary locking to prevent double bookings, and gender-based seat selection provides a safe ladies seating option.\n\nThe admin dashboard gives the bus owner full control: fleet management , booking oversight, manual bookings for reserved seats, passenger records, revenue reports, and stop/price management.\n\nStack: Laravel 12 · PHP 8.2 · MySQL · Tailwind CSS · JavaScript (AJAX) · Blade · Flatpickr\nDeployed: Live demo on InfinityFree · Client launch on Provider.lk with Commercial Bank payment gateway integration",
+    "tools": [
+      "Tailwind CSS Laravel"
+    ]
   }
 ]
