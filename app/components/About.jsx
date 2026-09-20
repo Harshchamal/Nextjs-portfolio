@@ -38,7 +38,7 @@ const educationData = [
     grade: 'Grade: Distinction',
   },
   {
-    period: '2021 December',
+    period: '2022 December',
     degree: 'G.C.E Ordinary Level (O/L)',
     school: 'Sri chandananda Buddist collage, Kandy',
     grade: 'Grade: Passed',
