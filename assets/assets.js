@@ -157,7 +157,7 @@ export const infoList = [
   - ICBT Campus (August 2022 - January 2023)
   
   G.C.E. Ordinary Level
-  - Sri Chandananda Buddhist College, Kandy (2021)`
+  - Sri Chandananda Buddhist College, Kandy (2022)`
     },
     
 ];
